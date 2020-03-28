@@ -1,11 +1,7 @@
 {
   "name": "dedicante",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Programa open source de aplicações para desenvolvedores dedicantes voluntários em construir aplicações que auxiliaram na construção organica de informações entre membro e não membros dentro e fora das comunidades nascionais e internacionais.",
-  "main": "app.js",
-  "scripts": {
-    "test": "npm run dev"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/immbrioclarosp/dedicante.git"
@@ -21,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/immbrioclarosp/dedicante/issues"
   },
-  "homepage": "https://github.com/immbrioclarosp/dedicante#readme"
+  "homepage": "http://dedicante.dev.openode.io/",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
 }

@@ -1,0 +1,18 @@
+{
+  "name": "dedicante",
+  "description": "Programa open source de aplicações para desenvolvedores dedicantes voluntários em construir aplicações que auxiliaram na construção organica de informações entre membro e não membros dentro e fora das comunidades nascionais e internacionais.",
+  "website": "http://dedicante.dev.openode.io/",
+  "repository": "https://github.com/immbrioclarosp/dedicante/",
+  "logo": "https://avatars3.githubusercontent.com/u/62785930?s=460&u=9a7796cc2cd51579a01fb7d578686e1caf230bd1&v=4",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {},
+  "addons": [],
+  "env": {}
+}
