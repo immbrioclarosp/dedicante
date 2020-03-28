@@ -32,4 +32,4 @@ Author: **Aailson Barbosa Ribeiro**
 Create Time: 2020-03-27 15:57:49 
 Sponsor by: @alailsonribeiro 
 ```
-Info: [Developer](https://www.credential.net/profile/alailsonbarbosaribeiro/wallet) 
++Info: [Developer](https://www.credential.net/profile/alailsonbarbosaribeiro/wallet) 
