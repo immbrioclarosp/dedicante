@@ -1,0 +1,25 @@
+{
+  "name": "dedicante",
+  "version": "1.0.0",
+  "description": "Programa open source de aplicações para desenvolvedores dedicantes voluntários em construir aplicações que auxiliaram na construção organica de informações entre membro e não membros dentro e fora das comunidades nascionais e internacionais.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immbrioclarosp/dedicante.git"
+  },
+  "keywords": [
+    "immb",
+    "dedicante",
+    "Alailson",
+    "Ribeiro"
+  ],
+  "author": "Alailson Barbosa Ribeiro <ribeiro@alailson.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immbrioclarosp/dedicante/issues"
+  },
+  "homepage": "https://github.com/immbrioclarosp/dedicante#readme"
+}
