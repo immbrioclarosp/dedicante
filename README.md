@@ -1,0 +1,2 @@
+# dedicante
+Aplicação para Dedicantes
