@@ -1,6 +1,8 @@
 ### dedicante
 
+
 | Programa open source de aplicações para desenvolvedores dedicantes voluntários em construir aplicações que auxiliaram na construção organica de informações entre membro e não membros dentro e fora das comunidades nascionais e internacionais. |
+|---|
 |Open source application program for dedicated volunteer developers to build applications that helped in the organic construction of information between members and non-members inside and outside national and international communities. |
 | **<a href="https://www.openode.io/"> Sponsored and hosted by opeNode.io </a> As** |
 
@@ -34,7 +36,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-| @ Author: **Aailson Barbosa Ribeiro**|
-| @ Create Time: 2020-03-27 15:57:49|
-| @ Sponsor by: @alailsonribeiro|
-| @ +info: [Developer](https://alailson.com.br/barbosa-ribeiro-about-sobre)|
+```
+Author: **Aailson Barbosa Ribeiro** 
+Create Time: 2020-03-27 15:57:49 
+Sponsor by: @alailsonribeiro 
+```
+Info: [Developer](https://www.credential.net/profile/alailsonbarbosaribeiro/wallet) 
