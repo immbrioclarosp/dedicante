@@ -4,7 +4,7 @@
 | Programa open source de aplicações para desenvolvedores dedicantes voluntários em construir aplicações que auxiliaram na construção organica de informações entre membro e não membros dentro e fora das comunidades nascionais e internacionais. |
 |---|
 |Open source application program for dedicated volunteer developers to build applications that helped in the organic construction of information between members and non-members inside and outside national and international communities. |
-| **<a href="https://www.openode.io/"> Sponsored and hosted by opeNode.io </a> As** |
+| **<a href="https://www.openode.io/"> Sponsored and hosted by opeNode.io </a>** |
 
 ### Visão
 A prática dedicante, também é uma **Filosofia** capaz de transformar as pessoas materialistas em espiritualistas, e as egoístas em altruístas, restituindo ao planeta seu equilíbrio original. Seu objetivo final é reconduzir a humanidade a uma vida concorde com a Lei da Natureza e construir uma nova civilização, alicerçada na verdadeira saúde, na prosperidade e na paz."
