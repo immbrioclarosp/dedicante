@@ -23,6 +23,8 @@
     "dev": "nodemon web.js"
   },
   "dependencies": {
+    "acorn": "^7.1.1",
+    "acorn-globals": "^6.0.0",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.4.1",
     "express": "^4.15.2",
